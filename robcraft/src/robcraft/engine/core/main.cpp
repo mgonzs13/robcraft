@@ -117,7 +117,6 @@ int main(int argc, char* argv[]) {
     bool publish_world_frame = false;
     bool publish_odom_tf = true;
     bool headless = false;
-    bool perf_stats = false;
     std::string world_path;
 
     for (int i = 1; i < argc; ++i) {
@@ -132,8 +131,6 @@ int main(int argc, char* argv[]) {
             publish_odom_tf = false;
         } else if (a == "--headless") {
             headless = true;
-        } else if (a == "--perf-stats") {
-            perf_stats = true;
         } else if (world_path.empty()) {
             world_path = a;
         }
@@ -149,7 +146,6 @@ int main(int argc, char* argv[]) {
             "  --no-odom-tf          do not publish the odom -> base_footprint TF so an external\n"
             "                        odometry source (e.g. an EKF) can own it\n"
             "  --headless            run without a visible window (still needs a GL context)\n"
-            "  --perf-stats          print PERF_START/PERF telemetry lines to stdout\n"
             "  --help, -h            show this help and exit\n");
         return 0;
     }
@@ -305,26 +301,7 @@ int main(int argc, char* argv[]) {
     robcraft::engine::core::AppMenuState menu_state;
     double last_wall = renderer.time();
 
-    double perf_window_start = 0.0;
-    int perf_iterations = 0;
-    bool perf_start_printed = false;
-
     while (renderer.is_running() && ros2_bridge.ok()) {
-        if (perf_stats) {
-            double wall = renderer.time();
-            if (!perf_start_printed) {
-                perf_start_printed = true;
-                logger->info("PERF_START {:.3f} {:.3f}", wall, clock.time());
-                perf_window_start = wall;
-            }
-            ++perf_iterations;
-            if (wall - perf_window_start >= 1.0) {
-                double loop_hz = perf_iterations / (wall - perf_window_start);
-                logger->info("PERF {:.3f} {:.3f} {:.1f}", wall, clock.time(), loop_hz);
-                perf_iterations = 0;
-                perf_window_start = wall;
-            }
-        }
         renderer.poll_events();
 
         GLFWwindow* win = glfwGetCurrentContext();
