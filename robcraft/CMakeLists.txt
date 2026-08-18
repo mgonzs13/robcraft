@@ -327,6 +327,18 @@ target_link_libraries(robcraft-tests PRIVATE
     Catch2::Catch2WithMain
 )
 
+# Keep the statically-linked FetchContent spdlog (v1.13.0) out of each
+# executable's dynamic symbol table. ROS 2's rcl_logging plugin
+# (librcl_logging_spdlog.so) is built against the distro's system spdlog and
+# references symbols like spdlog::logger::set_pattern; with our symbols
+# exported, those calls interpose onto v1.13.0 code operating on v1.5.0 (Foxy)
+# / v1.9.x (Humble) object layouts and SIGSEGV during rclcpp::init().
+if(CMAKE_CXX_COMPILER_ID STREQUAL "GNU" OR CMAKE_CXX_COMPILER_ID MATCHES "Clang")
+    foreach(tgt robcraft robcraft-editor robcraft-tests)
+        target_link_options(${tgt} PRIVATE "-Wl,--exclude-libs,libspdlog.a")
+    endforeach()
+endif()
+
 list(APPEND CMAKE_MODULE_PATH ${catch2_SOURCE_DIR}/extras)
 include(Catch)
 # Tests run with the repo root as CWD: model-path disk-existence checks are
