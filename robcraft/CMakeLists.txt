@@ -61,6 +61,8 @@ target_include_directories(stb INTERFACE ${stb_SOURCE_DIR})
 
 find_package(GLEW REQUIRED)
 find_package(glfw3 REQUIRED)
+# Prefer GLVND over legacy GL on multi-arch systems (Ubuntu 20.04 / CMake 3.16)
+set(OpenGL_GL_PREFERENCE GLVND)
 find_package(OpenGL REQUIRED)
 
 # ── ROS 2 dependencies (required) ─────────────────────────────────────────────
