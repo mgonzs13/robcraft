@@ -160,6 +160,7 @@ target_link_libraries(renderer_core PUBLIC
     GLEW::GLEW
     glfw
     OpenGL::GL
+    ${CMAKE_DL_LIBS}
 )
 
 # ── ROS 2 bridge library ─────────────────────────────────────────────────────
@@ -203,6 +204,7 @@ target_include_directories(imgui PUBLIC
 target_link_libraries(imgui PUBLIC
     glfw
     OpenGL::GL
+    ${CMAKE_DL_LIBS}
 )
 
 # ── Shared ImGui UI helpers (zenity fallback) ────────────────────────────────
