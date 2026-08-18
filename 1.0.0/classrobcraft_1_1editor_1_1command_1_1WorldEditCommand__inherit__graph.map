@@ -1,0 +1,5 @@
+<map id="robcraft::editor::command::WorldEditCommand" name="robcraft::editor::command::WorldEditCommand">
+<area shape="rect" id="Node000001" title="Restores a captured before/after diff of entities and terrain cells." alt="" coords="5,94,172,135"/>
+<area shape="rect" id="Node000002" href="$classrobcraft_1_1editor_1_1command_1_1ICommand.html" title="A reversible operation on the editor world." alt="" coords="5,5,172,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,62,91,94,86,94,86,62"/>
+</map>

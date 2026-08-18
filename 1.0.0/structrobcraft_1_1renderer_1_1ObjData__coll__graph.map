@@ -1,0 +1,21 @@
+<map id="robcraft::renderer::ObjData" name="robcraft::renderer::ObjData">
+<area shape="rect" id="Node000001" title="CPU&#45;side parsed OBJ geometry (vertex colors, optional UVs, materials)." alt="" coords="904,123,1022,163"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="613,8,750,49"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="765,33,824,46,881,67,918,92,946,120,942,124,914,96,879,72,822,51,764,38"/>
+<area shape="rect" id="Node000003" href="$structrobcraft_1_1renderer_1_1Vertex.html" title="A single vertex: position, normal, RGB color, UV, and tangent." alt="" coords="375,8,494,49"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="509,26,613,26,613,31,509,31"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="610,73,752,98"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="769,92,881,112,906,120,904,125,879,118,768,98"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="603,123,760,163"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="776,140,904,140,904,146,776,146"/>
+<area shape="rect" id="Node000006" href="$structrobcraft_1_1renderer_1_1ObjMaterial.html" title="Material definition parsed from an MTL file." alt="" coords="375,123,494,163"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="510,140,602,140,602,146,510,146"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="178,130,255,156"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="271,140,375,140,375,146,271,146"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="5,123,129,163"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="144,140,178,140,178,146,144,146"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="623,188,740,213"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="755,190,816,181,879,169,905,161,907,166,881,174,817,187,756,196"/>
+<area shape="rect" id="Node000010" href="$structrobcraft_1_1engine_1_1math_1_1Vec3.html" title="3D double&#45;precision vector with component&#45;wise arithmetic." alt="" coords="609,252,754,293"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="769,267,825,256,879,235,900,219,919,200,948,162,952,166,923,204,904,223,881,239,826,261,770,272"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="robcraft/include/robcraft/renderer/reflection.hpp" name="robcraft/include/robcraft/renderer/reflection.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="10,5,168,46"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,190,55,216"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="84,47,66,95,40,176,35,174,61,93,79,45"/>
+<area shape="rect" id="Node000003" href="$mat4_8hpp.html" title=" " alt="" coords="76,94,216,135"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="104,45,127,80,123,83,99,48"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="121,137,59,183,56,179,118,133"/>
+<area shape="rect" id="Node000004" href="$quaternion_8hpp.html" title=" " alt="" coords="78,183,219,223"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="149,135,150,167,145,167,144,135"/>
+<area shape="rect" id="Node000005" href="$vec3_8hpp.html" title=" " alt="" coords="132,271,272,312"/>
+<area shape="poly" id="edge7_Node000003_Node000005" title=" " alt="" coords="186,133,213,154,234,181,239,201,238,221,225,259,220,257,233,220,234,202,229,184,209,157,183,137"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="163,222,184,257,180,260,159,225"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="173,360,231,386"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="205,312,205,344,199,344,199,312"/>
+</map>

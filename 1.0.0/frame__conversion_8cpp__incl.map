@@ -1,0 +1,15 @@
+<map id="robcraft/src/robcraft/engine/math/frame_conversion.cpp" name="robcraft/src/robcraft/engine/math/frame_conversion.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="148,5,376,46"/>
+<area shape="rect" id="Node000002" href="$frame__conversion_8hpp.html" title=" " alt="" coords="73,94,225,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="238,49,188,87,185,82,235,44"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="179,360,236,386"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="266,47,263,161,255,237,239,313,225,348,220,346,234,311,250,236,258,160,260,46"/>
+<area shape="rect" id="Node000006" href="$constants_8hpp.html" title=" " alt="" coords="300,94,440,135"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="288,44,336,82,332,86,285,49"/>
+<area shape="rect" id="Node000003" href="$quaternion_8hpp.html" title=" " alt="" coords="5,183,146,223"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="134,137,104,172,100,169,130,133"/>
+<area shape="rect" id="Node000004" href="$vec3_8hpp.html" title=" " alt="" coords="84,271,224,312"/>
+<area shape="poly" id="edge5_Node000002_Node000004" title=" " alt="" coords="155,135,161,183,160,256,155,256,156,183,150,135"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="95,222,128,258,124,261,91,226"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="170,311,193,346,189,349,165,314"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="robcraft/include/robcraft/sensors/magnetometer/magnetometer_sensor.hpp" name="robcraft/include/robcraft/sensors/magnetometer/magnetometer_sensor.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="167,5,412,61"/>
+<area shape="rect" id="Node000002" href="$random_8hpp.html" title=" " alt="" coords="5,109,142,150"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,64,134,105,131,100,226,59"/>
+<area shape="rect" id="Node000004" href="$quaternion_8hpp.html" title=" " alt="" coords="166,109,306,150"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="276,63,257,97,252,94,272,60"/>
+<area shape="rect" id="Node000005" href="$vec3_8hpp.html" title=" " alt="" coords="274,198,414,238"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="304,60,321,108,340,182,335,183,316,110,299,62"/>
+<area shape="rect" id="Node000007" href="$sensor__base_8hpp.html" title=" " alt="" coords="381,109,539,150"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="340,59,413,99,410,104,338,64"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="43,205,104,231"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="76,150,76,190,71,190,71,150"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="262,148,310,186,306,190,259,152"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="316,286,373,312"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="347,239,347,271,342,271,342,239"/>
+<area shape="poly" id="edge8_Node000007_Node000005" title=" " alt="" coords="435,152,384,190,381,186,432,148"/>
+</map>

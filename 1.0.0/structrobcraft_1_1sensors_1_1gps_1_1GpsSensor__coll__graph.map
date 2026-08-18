@@ -1,0 +1,7 @@
+<map id="robcraft::sensors::gps::GpsSensor" name="robcraft::sensors::gps::GpsSensor">
+<area shape="rect" id="Node000001" title="GPS sensor model with configurable noise." alt="" coords="16,227,139,268"/>
+<area shape="rect" id="Node000002" href="$structrobcraft_1_1sensors_1_1SensorBase.html" title="Base configuration shared by all simulated sensor models." alt="" coords="16,137,139,178"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="80,194,80,227,75,227,75,194"/>
+<area shape="rect" id="Node000003" href="$structrobcraft_1_1engine_1_1math_1_1Vec3.html" title="3D double&#45;precision vector with component&#45;wise arithmetic." alt="" coords="5,5,150,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="80,62,80,137,75,137,75,62"/>
+</map>

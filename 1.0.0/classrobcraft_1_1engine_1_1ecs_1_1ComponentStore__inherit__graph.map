@@ -1,0 +1,5 @@
+<map id="robcraft::engine::ecs::ComponentStore&lt; T &gt;" name="robcraft::engine::ecs::ComponentStore&lt; T &gt;">
+<area shape="rect" id="Node000001" title="Typed component storage keyed by entity id." alt="" coords="5,94,160,135"/>
+<area shape="rect" id="Node000002" href="$classrobcraft_1_1engine_1_1ecs_1_1IComponentStore.html" title="Common interface for component stores of any type." alt="" coords="14,5,151,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,62,85,94,80,94,80,62"/>
+</map>

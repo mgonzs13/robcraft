@@ -1,0 +1,26 @@
+<map id="robcraft/include/robcraft/editor/editor_gizmo.hpp" name="robcraft/include/robcraft/editor/editor_gizmo.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="377,5,536,46"/>
+<area shape="rect" id="Node000002" href="$editor__app_8hpp.html" title=" " alt="" coords="751,94,909,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="552,46,751,92,750,97,550,51"/>
+<area shape="rect" id="Node000005" href="$editor__gizmo_8cpp.html" title=" " alt="" coords="5,183,164,223"/>
+<area shape="poly" id="edge12_Node000001_Node000005" title=" " alt="" coords="402,55,127,185,125,180,400,51"/>
+<area shape="rect" id="Node000003" href="$editor__app_8cpp.html" title=" " alt="" coords="188,183,333,223"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="735,129,555,152,346,185,334,188,333,182,345,180,554,147,735,124"/>
+<area shape="rect" id="Node000004" href="$editor__dialogs_8cpp.html" title=" " alt="" coords="358,183,523,223"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="736,139,524,186,523,181,735,134"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="735,125,482,147,330,164,177,185,165,187,164,182,176,180,329,159,482,142,735,120"/>
+<area shape="rect" id="Node000006" href="$editor__inspector_8cpp.html" title=" " alt="" coords="548,183,725,223"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="773,144,682,185,679,180,771,139"/>
+<area shape="rect" id="Node000007" href="$editor__panels_8cpp.html" title=" " alt="" coords="749,183,911,223"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="832,150,832,182,827,182,827,150"/>
+<area shape="rect" id="Node000008" href="$editor__place_8cpp.html" title=" " alt="" coords="935,183,1090,223"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="886,139,972,180,970,185,884,144"/>
+<area shape="rect" id="Node000009" href="$editor__tools_8cpp.html" title=" " alt="" coords="1114,183,1266,223"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="925,136,1114,181,1112,186,923,141"/>
+<area shape="rect" id="Node000010" href="$editor__ui_8cpp.html" title=" " alt="" coords="1290,183,1426,223"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="925,125,1090,148,1278,180,1290,182,1289,188,1277,185,1089,153,924,130"/>
+<area shape="rect" id="Node000011" href="$editor__view__settings_8cpp.html" title=" " alt="" coords="1449,183,1653,223"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="925,122,1158,146,1438,180,1449,182,1448,187,1437,185,1158,151,924,127"/>
+<area shape="rect" id="Node000012" href="$editor__viewport_8cpp.html" title=" " alt="" coords="1678,183,1851,223"/>
+<area shape="poly" id="edge11_Node000002_Node000012" title=" " alt="" coords="924,117,1253,138,1459,156,1666,180,1678,182,1677,187,1665,185,1459,161,1253,143,924,122"/>
+</map>

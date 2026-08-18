@@ -1,0 +1,7 @@
+<map id="robcraft/include/robcraft/sensors/magnetometer" name="robcraft/include/robcraft/sensors/magnetometer">
+<area shape="rect" id="node1" href="dir_c3bbd1f41a7460c336e234cea396740c.html" title="magnetometer" alt="" coords="26,52,131,78"/>
+<area shape="rect" id="node2" href="dir_ba66c92f4395a7cb247fd0ab6cea9711.html" title="engine" alt="" coords="49,126,108,152"/>
+<area shape="poly" id="edge1" href="dir_000029_000015.html" alt="" coords="81,78,81,110,76,110,76,78"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000029_000015.html" title="3" alt="" coords="84,100,91,115"/>
+<area shape="rect" id="clust1" href="dir_0a50051e43024cb74a951b4fd4384246.html" title="sensors" alt="" coords="16,16,141,89"/>
+</map>

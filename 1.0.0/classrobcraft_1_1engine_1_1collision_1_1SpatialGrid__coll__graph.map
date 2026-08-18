@@ -1,0 +1,9 @@
+<map id="robcraft::engine::collision::SpatialGrid" name="robcraft::engine::collision::SpatialGrid">
+<area shape="rect" id="Node000001" title="Uniform spatial grid storing entities by cell for broad&#45;phase queries." alt="" coords="35,214,197,254"/>
+<area shape="rect" id="Node000002" href="$structrobcraft_1_1engine_1_1math_1_1Vec2.html" title="2D double&#45;precision vector with component&#45;wise arithmetic." alt="" coords="5,102,150,143"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,157,112,212,107,214,87,158"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="173,102,326,143"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="216,155,141,215,138,211,212,151"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="182,5,317,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="252,46,252,102,247,102,247,46"/>
+</map>

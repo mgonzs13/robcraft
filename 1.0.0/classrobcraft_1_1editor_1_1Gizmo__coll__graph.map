@@ -1,0 +1,5 @@
+<map id="robcraft::editor::Gizmo" name="robcraft::editor::Gizmo">
+<area shape="rect" id="Node000001" title="The gizmo: owned meshes, rendering, and handle hit&#45;testing." alt="" coords="5,178,152,204"/>
+<area shape="rect" id="Node000002" href="$classrobcraft_1_1renderer_1_1Mesh.html" title="OpenGL mesh: vertex/index buffers and draw support." alt="" coords="19,5,138,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="81,62,81,178,76,178,76,62"/>
+</map>

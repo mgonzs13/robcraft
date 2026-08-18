@@ -1,0 +1,5 @@
+<map id="robcraft::sensors::depth_camera::DepthCameraSensor" name="robcraft::sensors::depth_camera::DepthCameraSensor">
+<area shape="rect" id="Node000001" title="Depth camera sensor model with configurable resolution and FOV." alt="" coords="5,94,235,135"/>
+<area shape="rect" id="Node000002" href="$structrobcraft_1_1sensors_1_1SensorBase.html" title="Base configuration shared by all simulated sensor models." alt="" coords="58,5,182,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,62,123,94,117,94,117,62"/>
+</map>

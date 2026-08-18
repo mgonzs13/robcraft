@@ -1,0 +1,5 @@
+<map id="robcraft::renderer::PrimitiveMeshes" name="robcraft::renderer::PrimitiveMeshes">
+<area shape="rect" id="Node000001" title="The procedural fallback meshes shared by the sim and the editor." alt="" coords="5,219,130,259"/>
+<area shape="rect" id="Node000002" href="$classrobcraft_1_1renderer_1_1Mesh.html" title="OpenGL mesh: vertex/index buffers and draw support." alt="" coords="8,5,127,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="70,61,70,218,65,218,65,61"/>
+</map>

@@ -1,0 +1,28 @@
+<map id="robcraft::engine::world::World" name="robcraft::engine::world::World">
+<area shape="rect" id="Node000001" title="Owns entities, their component stores, and the optional terrain." alt="" coords="904,268,1051,309"/>
+<area shape="rect" id="Node000002" href="$classrobcraft_1_1engine_1_1core_1_1EntityManager.html" title="Manages entity creation and destruction." alt="" coords="600,55,741,96"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="725,102,801,147,882,203,956,266,952,270,879,207,798,151,722,106"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="251,5,385,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="401,25,536,45,600,57,599,63,536,50,400,30"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="254,55,382,96"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="397,73,600,73,600,78,397,78"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="560,154,781,224"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="797,227,913,265,912,270,795,232"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="213,120,423,161"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="439,149,536,161,560,165,559,170,536,166,438,154"/>
+<area shape="rect" id="Node000007" href="$classrobcraft_1_1engine_1_1ecs_1_1IComponentStore.html" title="Common interface for component stores of any type." alt="" coords="5,120,142,161"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="157,138,212,138,212,144,157,144"/>
+<area shape="rect" id="Node000008" href="$classrobcraft_1_1engine_1_1world_1_1Terrain.html" title="Heightmap terrain grid with editing, raycasting, and serialization." alt="" coords="598,268,744,309"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="760,286,904,286,904,292,760,292"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="254,196,382,222"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="397,212,465,221,537,236,623,265,621,270,535,241,465,227,397,218"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="247,291,389,316"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="404,302,536,299,597,294,597,300,536,304,404,307"/>
+<area shape="rect" id="Node000011" href="$structrobcraft_1_1engine_1_1lighting_1_1SceneLighting.html" title="Sun and ambient lighting for a world (serialized with the .world file)." alt="" coords="592,346,749,386"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="763,343,880,315,906,307,908,312,881,320,765,348"/>
+<area shape="rect" id="Node000012" href="$structrobcraft_1_1engine_1_1math_1_1Vec3.html" title="3D double&#45;precision vector with component&#45;wise arithmetic." alt="" coords="246,415,390,456"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="405,416,592,379,593,384,406,421"/>
+<area shape="rect" id="Node000013" href="$structrobcraft_1_1engine_1_1lighting_1_1Sky.html" title="Gradient sky colors for a world (serialized with the .world file)." alt="" coords="578,433,763,459"/>
+<area shape="poly" id="edge13_Node000013_Node000012" title=" " alt="" coords="396,458,447,468,491,471,535,469,614,457,615,462,536,474,491,476,447,473,395,463"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="730,425,803,398,879,362,918,335,952,308,955,312,922,339,882,366,805,403,732,430"/>
+</map>

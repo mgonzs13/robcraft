@@ -1,0 +1,23 @@
+<map id="robcraft/src/robcraft/sensors/depth_camera/depth_camera_sensor.cpp" name="robcraft/src/robcraft/sensors/depth_camera/depth_camera_sensor.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="367,5,544,61"/>
+<area shape="rect" id="Node000002" href="$depth__camera__sensor_8hpp.html" title=" " alt="" coords="342,109,569,150"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="458,62,458,94,453,94,453,62"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="510,375,567,401"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="530,59,560,80,583,108,597,141,603,176,602,212,597,248,577,313,554,362,550,360,572,311,591,246,597,212,597,176,592,142,579,110,556,84,527,64"/>
+<area shape="rect" id="Node000007" href="$mat4_8hpp.html" title=" " alt="" coords="145,109,286,150"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="387,64,281,105,279,100,385,59"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="295,205,352,231"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="427,152,356,199,353,194,424,148"/>
+<area shape="rect" id="Node000004" href="$vec3_8hpp.html" title=" " alt="" coords="385,286,526,327"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="499,148,527,168,549,196,555,218,549,240,532,262,512,280,508,276,528,258,544,237,550,218,544,199,523,172,495,152"/>
+<area shape="rect" id="Node000006" href="$sensor__base_8hpp.html" title=" " alt="" coords="376,198,535,238"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="458,150,458,182,453,182,453,150"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="478,325,516,362,512,366,474,329"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="458,239,458,271,453,271,453,239"/>
+<area shape="poly" id="edge12_Node000007_Node000004" title=" " alt="" coords="210,151,201,194,203,216,212,237,236,254,275,269,371,291,370,296,273,274,233,259,208,240,198,218,196,193,205,149"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="222,205,271,231"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="225,149,239,190,234,192,220,151"/>
+<area shape="rect" id="Node000009" href="$quaternion_8hpp.html" title=" " alt="" coords="5,198,146,238"/>
+<area shape="poly" id="edge10_Node000007_Node000009" title=" " alt="" coords="185,152,122,192,119,187,182,148"/>
+<area shape="poly" id="edge11_Node000009_Node000004" title=" " alt="" coords="147,233,371,283,370,289,145,238"/>
+</map>

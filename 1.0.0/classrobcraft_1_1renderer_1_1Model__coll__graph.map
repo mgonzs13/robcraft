@@ -1,0 +1,38 @@
+<map id="robcraft::renderer::Model" name="robcraft::renderer::Model">
+<area shape="rect" id="Node000001" title="A 3D model: one or more submeshes, move&#45;only RAII." alt="" coords="1325,268,1443,309"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="1031,89,1189,130"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1168,135,1233,171,1303,216,1363,266,1360,270,1299,220,1231,176,1165,140"/>
+<area shape="rect" id="Node000003" href="$structrobcraft_1_1renderer_1_1ModelMesh.html" title="One drawable submesh with an optional albedo/normal texture." alt="" coords="763,43,882,83"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="898,72,1031,94,1030,99,897,78"/>
+<area shape="rect" id="Node000004" href="$classrobcraft_1_1renderer_1_1Mesh.html" title="OpenGL mesh: vertex/index buffers and draw support." alt="" coords="502,5,620,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="636,34,763,52,762,57,635,39"/>
+<area shape="rect" id="Node000005" href="$classrobcraft_1_1renderer_1_1Texture.html" title="OpenGL texture object (2D or 2D array), move&#45;only RAII." alt="" coords="502,80,620,121"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="635,101,680,100,725,94,771,81,772,86,726,100,680,105,636,106"/>
+<area shape="rect" id="Node000006" href="$structrobcraft_1_1renderer_1_1GltfSkin.html" title="Joint hierarchy + inverse bind matrices for skinning." alt="" coords="1051,196,1169,237"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1185,233,1325,270,1324,275,1183,238"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="764,125,881,150"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="897,143,949,151,1001,164,1071,193,1069,198,1000,170,948,157,896,148"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="749,192,896,233"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="911,211,1050,213,1050,218,911,216"/>
+<area shape="rect" id="Node000009" href="$structrobcraft_1_1engine_1_1math_1_1Mat4.html" title="Column&#45;major 4x4 matrix of single&#45;precision floats." alt="" coords="488,192,633,233"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="648,210,749,210,749,215,648,215"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="229,200,370,225"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="385,210,488,210,488,215,385,215"/>
+<area shape="rect" id="Node000011" href="$structrobcraft_1_1engine_1_1math_1_1Vec3.html" title="3D double&#45;precision vector with component&#45;wise arithmetic." alt="" coords="750,273,895,314"/>
+<area shape="poly" id="edge18_Node000001_Node000011" title=" " alt="" coords="910,291,1195,289,1324,287,1324,292,1195,294,910,296"/>
+<area shape="poly" id="edge10_Node000006_Node000011" title=" " alt="" coords="909,268,1050,230,1051,235,910,273"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="1025,357,1195,398"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="1210,371,1256,363,1300,349,1333,330,1361,307,1364,311,1336,334,1302,354,1257,368,1211,376"/>
+<area shape="rect" id="Node000013" href="$structrobcraft_1_1renderer_1_1GltfAnimation.html" title="One animation clip: per&#45;node TRS keyframe tracks." alt="" coords="763,357,882,398"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="897,375,1024,375,1024,380,897,380"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="522,334,599,360"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="615,351,763,368,763,373,614,356"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="238,327,361,367"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="376,344,522,344,522,350,376,350"/>
+<area shape="rect" id="Node000016" title=" " alt="" coords="481,384,640,440"/>
+<area shape="poly" id="edge15_Node000013_Node000016" title=" " alt="" coords="655,400,725,391,763,385,763,391,726,397,656,405"/>
+<area shape="rect" id="Node000017" href="$structrobcraft_1_1renderer_1_1GltfAnimation_1_1Track.html" title="One channel: node, path, keyframes." alt="" coords="227,392,372,433"/>
+<area shape="poly" id="edge16_Node000016_Node000017" title=" " alt="" coords="387,410,481,410,481,415,387,415"/>
+<area shape="rect" id="Node000018" title=" " alt="" coords="5,400,133,425"/>
+<area shape="poly" id="edge17_Node000017_Node000018" title=" " alt="" coords="148,410,226,410,226,415,148,415"/>
+</map>

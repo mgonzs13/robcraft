@@ -1,0 +1,13 @@
+<map id="robcraft::renderer::Renderer" name="robcraft::renderer::Renderer">
+<area shape="rect" id="Node000001" title="GLFW window plus the scene rendering pipeline." alt="" coords="48,427,166,468"/>
+<area shape="rect" id="Node000002" href="$classrobcraft_1_1renderer_1_1Shader.html" title="Wraps an OpenGL shader program (vertex + fragment stages)." alt="" coords="5,315,124,356"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="80,369,102,426,97,428,75,371"/>
+<area shape="rect" id="Node000003" href="$classrobcraft_1_1renderer_1_1Camera.html" title="Perspective camera supporting free movement and orbit controls." alt="" coords="148,315,266,356"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="182,369,150,405,128,428,124,425,147,401,178,366"/>
+<area shape="rect" id="Node000004" href="$structrobcraft_1_1engine_1_1math_1_1Vec3.html" title="3D double&#45;precision vector with component&#45;wise arithmetic." alt="" coords="66,102,210,143"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="141,158,148,221,156,257,170,290,187,313,182,316,165,293,151,258,143,222,136,158"/>
+<area shape="rect" id="Node000005" href="$structrobcraft_1_1engine_1_1math_1_1Mat4.html" title="Column&#45;major 4x4 matrix of single&#45;precision floats." alt="" coords="234,102,378,143"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="301,158,282,222,267,258,249,293,231,316,226,313,245,290,262,256,277,221,296,157"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="236,5,376,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="308,46,308,102,303,102,303,46"/>
+</map>

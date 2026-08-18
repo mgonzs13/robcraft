@@ -1,0 +1,5 @@
+<map id="robcraft::engine::lighting::PointLight" name="robcraft::engine::lighting::PointLight">
+<area shape="rect" id="Node000001" title="Point light attached to an entity; world position comes from Transform3D." alt="" coords="5,117,162,158"/>
+<area shape="rect" id="Node000002" href="$structrobcraft_1_1engine_1_1math_1_1Vec3.html" title="3D double&#45;precision vector with component&#45;wise arithmetic." alt="" coords="11,5,156,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="86,61,86,117,81,117,81,61"/>
+</map>

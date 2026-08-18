@@ -1,0 +1,7 @@
+<map id="robcraft::engine::core::EntityManager" name="robcraft::engine::core::EntityManager">
+<area shape="rect" id="Node000001" title="Manages entity creation and destruction." alt="" coords="80,117,220,158"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,13,140,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,50,138,115,134,118,88,53"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="164,5,291,46"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="209,61,187,95,168,118,164,115,182,91,205,58"/>
+</map>

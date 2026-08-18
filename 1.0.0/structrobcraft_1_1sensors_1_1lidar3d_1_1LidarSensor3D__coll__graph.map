@@ -1,0 +1,12 @@
+<map id="robcraft::sensors::lidar3d::LidarSensor3D" name="robcraft::sensors::lidar3d::LidarSensor3D">
+<area shape="rect" id="Node000001" title="3D LiDAR sensor model with configurable beams and ray counts." alt="" coords="529,80,680,121"/>
+<area shape="rect" id="Node000002" href="$structrobcraft_1_1sensors_1_1SensorBase.html" title="Base configuration shared by all simulated sensor models." alt="" coords="271,15,394,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="410,48,506,70,533,77,531,82,504,75,409,53"/>
+<area shape="rect" id="Node000003" href="$structrobcraft_1_1engine_1_1math_1_1Vec3.html" title="3D double&#45;precision vector with component&#45;wise arithmetic." alt="" coords="5,48,150,89"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="165,54,270,40,271,46,165,60"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="259,80,406,121"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="165,87,174,89,259,96,258,102,173,94,164,93"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="269,145,396,170"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="411,144,504,126,534,119,535,124,506,131,412,149"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="422,98,528,98,528,103,422,103"/>
+</map>

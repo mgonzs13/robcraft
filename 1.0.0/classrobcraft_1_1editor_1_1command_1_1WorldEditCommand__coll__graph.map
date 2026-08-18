@@ -1,0 +1,42 @@
+<map id="robcraft::editor::command::WorldEditCommand" name="robcraft::editor::command::WorldEditCommand">
+<area shape="rect" id="Node000001" title="Restores a captured before/after diff of entities and terrain cells." alt="" coords="1208,419,1374,460"/>
+<area shape="rect" id="Node000002" href="$classrobcraft_1_1editor_1_1command_1_1ICommand.html" title="A reversible operation on the editor world." alt="" coords="926,298,1092,338"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1088,341,1110,349,1148,362,1185,377,1257,416,1255,421,1183,382,1146,367,1108,354,1086,346"/>
+<area shape="rect" id="Node000003" href="$classrobcraft_1_1engine_1_1world_1_1World.html" title="Owns entities, their component stores, and the optional terrain." alt="" coords="936,363,1082,404"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1098,398,1208,420,1207,426,1097,404"/>
+<area shape="rect" id="Node000004" href="$classrobcraft_1_1engine_1_1core_1_1EntityManager.html" title="Manages entity creation and destruction." alt="" coords="603,55,743,96"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="742,100,780,121,821,148,858,181,888,221,896,239,899,257,897,289,896,318,901,333,911,348,937,367,934,371,907,352,896,335,891,319,891,288,893,257,891,241,883,224,854,185,817,152,778,126,739,105"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="251,5,385,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="401,25,536,45,603,58,602,63,536,50,400,30"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="254,55,382,96"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="397,73,603,73,603,78,397,78"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="562,151,784,222"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="774,227,833,261,887,306,896,318,899,329,903,338,911,348,937,364,934,368,908,352,898,341,894,330,891,320,883,309,830,266,772,231"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="213,120,423,161"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="439,149,536,161,563,165,562,170,536,166,438,155"/>
+<area shape="rect" id="Node000009" href="$classrobcraft_1_1engine_1_1ecs_1_1IComponentStore.html" title="Common interface for component stores of any type." alt="" coords="5,120,142,161"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="157,138,212,138,212,144,157,144"/>
+<area shape="rect" id="Node000010" href="$classrobcraft_1_1engine_1_1world_1_1Terrain.html" title="Heightmap terrain grid with editing, raycasting, and serialization." alt="" coords="600,283,746,324"/>
+<area shape="poly" id="edge9_Node000003_Node000010" title=" " alt="" coords="762,322,936,364,935,369,761,327"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="254,196,382,222"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="397,211,466,220,537,236,591,256,637,280,635,285,588,261,535,241,465,225,397,216"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="247,291,389,316"/>
+<area shape="poly" id="edge11_Node000010_Node000012" title=" " alt="" coords="404,301,599,301,599,306,404,306"/>
+<area shape="rect" id="Node000013" href="$structrobcraft_1_1engine_1_1lighting_1_1SceneLighting.html" title="Sun and ambient lighting for a world (serialized with the .world file)." alt="" coords="595,363,751,404"/>
+<area shape="poly" id="edge12_Node000003_Node000013" title=" " alt="" coords="767,381,935,381,935,386,767,386"/>
+<area shape="rect" id="Node000014" href="$structrobcraft_1_1engine_1_1math_1_1Vec3.html" title="3D double&#45;precision vector with component&#45;wise arithmetic." alt="" coords="246,408,390,449"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="405,415,594,391,595,396,406,420"/>
+<area shape="rect" id="Node000015" href="$structrobcraft_1_1engine_1_1lighting_1_1Sky.html" title="Gradient sky colors for a world (serialized with the .world file)." alt="" coords="581,428,765,454"/>
+<area shape="poly" id="edge15_Node000015_Node000014" title=" " alt="" coords="385,452,447,468,491,472,536,468,612,452,613,457,536,473,491,477,447,473,384,457"/>
+<area shape="poly" id="edge14_Node000003_Node000015" title=" " alt="" coords="780,426,885,409,935,399,936,404,886,414,781,431"/>
+<area shape="rect" id="Node000016" title=" " alt="" coords="909,450,1109,506"/>
+<area shape="poly" id="edge16_Node000001_Node000016" title=" " alt="" coords="1124,472,1183,466,1220,458,1221,463,1184,471,1125,478"/>
+<area shape="rect" id="Node000017" title=" " alt="" coords="560,478,786,518"/>
+<area shape="poly" id="edge17_Node000016_Node000017" title=" " alt="" coords="802,493,885,489,909,487,909,493,886,494,802,499"/>
+<area shape="rect" id="Node000018" href="$classrobcraft_1_1editor_1_1command_1_1EntitySnapshot.html" title="Full component capture of one entity, restorable into a World." alt="" coords="235,506,401,546"/>
+<area shape="poly" id="edge18_Node000017_Node000018" title=" " alt="" coords="416,516,559,504,560,510,417,521"/>
+<area shape="rect" id="Node000019" title=" " alt="" coords="914,533,1104,589"/>
+<area shape="poly" id="edge19_Node000001_Node000019" title=" " alt="" coords="1118,526,1183,500,1257,458,1260,463,1185,505,1120,531"/>
+<area shape="rect" id="Node000020" href="$structrobcraft_1_1editor_1_1command_1_1TerrainCellDelta.html" title="Before/after values of one terrain cell." alt="" coords="590,543,756,584"/>
+<area shape="poly" id="edge20_Node000019_Node000020" title=" " alt="" coords="772,560,913,559,913,564,772,565"/>
+</map>

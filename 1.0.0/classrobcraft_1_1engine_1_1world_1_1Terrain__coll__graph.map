@@ -1,0 +1,7 @@
+<map id="robcraft::engine::world::Terrain" name="robcraft::engine::world::Terrain">
+<area shape="rect" id="Node000001" title="Heightmap terrain grid with editing, raycasting, and serialization." alt="" coords="74,143,221,183"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,133,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,44,139,141,135,144,81,46"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="156,5,299,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="221,47,207,82,187,120,169,144,165,140,183,117,202,80,217,45"/>
+</map>

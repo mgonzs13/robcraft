@@ -1,0 +1,22 @@
+<map id="robcraft/src/robcraft/renderer/camera.cpp" name="robcraft/src/robcraft/renderer/camera.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="330,5,474,46"/>
+<area shape="rect" id="Node000002" href="$camera_8hpp.html" title=" " alt="" coords="140,102,328,127"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="365,49,272,97,270,92,363,44"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="281,449,339,474"/>
+<area shape="poly" id="edge10_Node000001_Node000007" title=" " alt="" coords="398,47,378,115,371,158,367,202,367,293,363,333,353,372,326,436,321,434,348,371,358,332,362,293,362,202,365,157,373,114,392,46"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="402,102,476,127"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="413,45,431,86,426,88,408,48"/>
+<area shape="rect" id="Node000009" href="$constants_8hpp.html" title=" " alt="" coords="501,94,642,135"/>
+<area shape="poly" id="edge11_Node000001_Node000009" title=" " alt="" coords="442,44,521,84,518,89,439,49"/>
+<area shape="rect" id="Node000003" href="$mat4_8hpp.html" title=" " alt="" coords="104,183,244,223"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="228,129,198,172,194,169,223,126"/>
+<area shape="rect" id="Node000006" href="$vec3_8hpp.html" title=" " alt="" coords="186,360,327,401"/>
+<area shape="poly" id="edge8_Node000002_Node000006" title=" " alt="" coords="242,127,251,152,259,182,266,270,263,345,257,345,260,270,254,183,246,153,237,129"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,279,55,304"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="143,226,64,273,62,268,140,222"/>
+<area shape="rect" id="Node000005" href="$quaternion_8hpp.html" title=" " alt="" coords="78,271,219,312"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="171,225,161,257,156,255,166,223"/>
+<area shape="poly" id="edge7_Node000003_Node000006" title=" " alt="" coords="197,222,216,244,234,270,248,308,255,344,250,345,243,309,229,273,212,247,193,225"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="175,310,222,348,219,352,172,315"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="272,400,296,434,291,437,268,403"/>
+</map>

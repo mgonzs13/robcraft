@@ -1,0 +1,14 @@
+<map id="robcraft/src/robcraft/engine/world/world_tokenizer.cpp" name="robcraft/src/robcraft/engine/world/world_tokenizer.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="127,5,343,46"/>
+<area shape="rect" id="Node000002" href="$world__tokenizer_8hpp.html" title=" " alt="" coords="56,94,198,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="212,49,165,86,161,82,209,44"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="199,183,252,208"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="236,46,230,167,224,167,231,46"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="272,102,331,127"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="252,45,285,87,281,91,248,48"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,183,70,208"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="107,137,64,174,61,170,103,133"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="94,183,171,208"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="131,135,133,167,128,167,125,135"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="153,133,200,170,197,175,150,137"/>
+</map>

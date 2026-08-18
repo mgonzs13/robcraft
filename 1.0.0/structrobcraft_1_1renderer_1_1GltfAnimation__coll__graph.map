@@ -1,0 +1,13 @@
+<map id="robcraft::renderer::GltfAnimation" name="robcraft::renderer::GltfAnimation">
+<area shape="rect" id="Node000001" title="One animation clip: per&#45;node TRS keyframe tracks." alt="" coords="86,361,205,401"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="36,249,114,275"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,286,136,359,132,362,88,289"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,122,129,163"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="72,178,77,249,72,249,67,179"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="142,234,301,290"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="198,304,161,362,156,359,193,301"/>
+<area shape="rect" id="Node000005" href="$structrobcraft_1_1renderer_1_1GltfAnimation_1_1Track.html" title="One channel: node, path, keyframes." alt="" coords="153,122,298,163"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="227,178,225,233,220,233,222,178"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="162,5,289,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="228,47,228,122,223,122,223,47"/>
+</map>

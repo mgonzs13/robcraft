@@ -1,0 +1,22 @@
+<map id="robcraft/src/robcraft/sensors/magnetometer/magnetometer_sensor.cpp" name="robcraft/src/robcraft/sensors/magnetometer/magnetometer_sensor.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="487,5,665,61"/>
+<area shape="rect" id="Node000002" href="$magnetometer__sensor_8hpp.html" title=" " alt="" coords="243,109,445,150"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="510,64,408,105,406,100,508,59"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="489,375,546,401"/>
+<area shape="poly" id="edge10_Node000001_Node000007" title=" " alt="" coords="576,62,568,141,553,239,527,361,522,360,548,238,562,141,571,61"/>
+<area shape="rect" id="Node000009" href="$constants_8hpp.html" title=" " alt="" coords="614,109,754,150"/>
+<area shape="poly" id="edge11_Node000001_Node000009" title=" " alt="" coords="609,60,652,97,648,101,606,64"/>
+<area shape="rect" id="Node000003" href="$random_8hpp.html" title=" " alt="" coords="5,198,142,238"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="283,153,150,195,149,190,282,148"/>
+<area shape="rect" id="Node000005" href="$quaternion_8hpp.html" title=" " alt="" coords="166,198,306,238"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="321,152,274,190,271,186,318,148"/>
+<area shape="rect" id="Node000006" href="$vec3_8hpp.html" title=" " alt="" coords="331,286,472,327"/>
+<area shape="poly" id="edge7_Node000002_Node000006" title=" " alt="" coords="350,150,359,190,372,237,386,271,382,273,367,239,353,192,345,151"/>
+<area shape="rect" id="Node000008" href="$sensor__base_8hpp.html" title=" " alt="" coords="381,198,539,238"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="372,148,423,186,420,190,369,152"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="43,294,104,320"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="76,239,76,278,71,278,71,239"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="275,236,352,277,350,281,272,241"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="432,325,489,364,486,368,429,330"/>
+<area shape="poly" id="edge9_Node000008_Node000006" title=" " alt="" coords="449,240,425,275,421,272,445,237"/>
+</map>

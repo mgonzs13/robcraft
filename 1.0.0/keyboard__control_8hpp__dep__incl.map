@@ -1,0 +1,7 @@
+<map id="robcraft/include/robcraft/engine/core/keyboard_control.hpp" name="robcraft/include/robcraft/engine/core/keyboard_control.hpp">
+<area shape="rect" id="Node000001" title="Maps keyboard state to a differential&#45;drive command with hold&#45;to&#45;move semantics." alt="" coords="56,5,274,46"/>
+<area shape="rect" id="Node000002" href="$keyboard__control_8cpp.html" title=" " alt="" coords="5,94,154,150"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="139,59,106,95,102,92,135,56"/>
+<area shape="rect" id="Node000003" href="$main_8cpp.html" title=" " alt="" coords="177,102,326,142"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="195,55,236,99,232,103,191,59"/>
+</map>

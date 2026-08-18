@@ -1,0 +1,17 @@
+<map id="robcraft::engine::world::Tokenizer" name="robcraft::engine::world::Tokenizer">
+<area shape="rect" id="Node000001" title="Splits a .world stream into tokens, skipping whitespace and &#39;#&#39; comments." alt="" coords="95,394,241,434"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="53,290,142,315"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,327,158,392,153,395,111,330"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="24,170,150,211"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="93,226,99,289,94,289,87,227"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,88,155,114"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="85,129,88,170,83,170,79,129"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="31,5,129,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="83,47,83,88,77,88,77,47"/>
+<area shape="rect" id="Node000006" href="$structrobcraft_1_1engine_1_1world_1_1Token.html" title="A single token produced by the tokenizer." alt="" coords="166,282,312,323"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="220,337,183,395,178,392,216,334"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="201,178,279,204"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="242,219,242,282,236,281,237,219"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="178,80,302,121"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="243,137,243,177,237,177,237,137"/>
+</map>

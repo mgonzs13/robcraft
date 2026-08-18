@@ -1,0 +1,12 @@
+<map id="robcraft/include/robcraft/engine/math/mat4.hpp" name="robcraft/include/robcraft/engine/math/mat4.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="70,5,228,46"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,102,55,127"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,49,60,94,57,90,120,44"/>
+<area shape="rect" id="Node000003" href="$quaternion_8hpp.html" title=" " alt="" coords="78,94,219,135"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="151,47,151,78,146,78,146,47"/>
+<area shape="rect" id="Node000004" href="$vec3_8hpp.html" title=" " alt="" coords="132,183,272,223"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="187,44,213,65,234,93,239,112,238,133,225,170,220,168,233,132,234,113,229,95,209,69,184,49"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="163,134,184,168,180,171,159,137"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="173,271,231,297"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="205,224,205,256,199,256,199,224"/>
+</map>

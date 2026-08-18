@@ -1,0 +1,23 @@
+<map id="robcraft/src/robcraft/sensors/imu/imu_sensor.cpp" name="robcraft/src/robcraft/sensors/imu/imu_sensor.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="204,5,395,46"/>
+<area shape="rect" id="Node000002" href="$imu__sensor_8hpp.html" title=" " alt="" coords="230,94,370,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="302,47,302,78,297,78,297,47"/>
+<area shape="rect" id="Node000003" href="$random_8hpp.html" title=" " alt="" coords="30,183,167,223"/>
+<area shape="poly" id="edge11_Node000001_Node000003" title=" " alt="" coords="277,49,219,96,132,174,128,170,215,92,273,45"/>
+<area shape="rect" id="Node000005" href="$quaternion_8hpp.html" title=" " alt="" coords="424,183,565,223"/>
+<area shape="poly" id="edge12_Node000001_Node000005" title=" " alt="" coords="327,44,384,92,466,169,463,173,381,96,323,48"/>
+<area shape="rect" id="Node000006" href="$vec3_8hpp.html" title=" " alt="" coords="316,271,457,312"/>
+<area shape="poly" id="edge13_Node000001_Node000006" title=" " alt="" coords="378,44,431,64,487,93,539,131,561,155,580,181,586,200,584,217,575,232,560,244,520,264,473,278,471,273,518,259,557,240,571,228,579,215,581,201,575,184,557,158,536,135,485,97,429,69,376,49"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="160,360,218,386"/>
+<area shape="poly" id="edge10_Node000001_Node000007" title=" " alt="" coords="221,49,167,69,111,97,60,135,39,158,21,184,12,202,9,219,9,235,13,250,30,279,58,310,78,327,100,340,146,359,144,364,98,345,75,331,54,314,26,283,8,252,4,236,3,219,7,201,16,181,34,155,57,131,108,93,165,64,219,44"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="255,138,159,179,157,174,253,133"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="345,133,437,173,435,178,343,138"/>
+<area shape="poly" id="edge7_Node000002_Node000006" title=" " alt="" coords="325,133,345,155,364,181,378,219,386,256,380,257,373,221,359,184,341,158,321,137"/>
+<area shape="rect" id="Node000008" href="$sensor__base_8hpp.html" title=" " alt="" coords="191,183,350,223"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="296,136,285,169,279,167,291,134"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="68,279,129,304"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="101,224,101,263,96,263,96,224"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="472,226,424,264,421,259,468,222"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="338,315,233,357,232,352,336,310"/>
+<area shape="poly" id="edge9_Node000008_Node000006" title=" " alt="" coords="298,222,350,260,346,264,295,226"/>
+</map>

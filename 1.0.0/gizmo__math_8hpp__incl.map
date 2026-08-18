@@ -1,0 +1,30 @@
+<map id="robcraft/include/robcraft/editor/gizmo_math.hpp" name="robcraft/include/robcraft/editor/gizmo_math.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="167,5,326,46"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="8,190,74,216"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="167,42,76,64,39,79,17,96,9,114,10,135,17,156,27,176,22,178,12,158,5,136,4,113,12,92,36,74,74,59,166,37"/>
+<area shape="rect" id="Node000003" href="$raycast_8hpp.html" title=" " alt="" coords="26,94,184,135"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="216,49,151,88,148,84,213,44"/>
+<area shape="rect" id="Node000004" href="$vec3_8hpp.html" title=" " alt="" coords="344,360,485,401"/>
+<area shape="poly" id="edge14_Node000001_Node000004" title=" " alt="" coords="242,47,227,98,215,167,213,204,217,242,226,278,243,310,260,330,282,345,330,365,328,370,279,349,257,334,239,314,221,280,212,243,208,204,209,166,221,96,236,46"/>
+<area shape="rect" id="Node000006" href="$mat4_8hpp.html" title=" " alt="" coords="360,183,501,223"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="260,45,288,88,327,133,381,172,378,177,323,137,284,91,255,48"/>
+<area shape="rect" id="Node000009" href="$vec2_8hpp.html" title=" " alt="" coords="554,94,694,135"/>
+<area shape="poly" id="edge11_Node000001_Node000009" title=" " alt="" coords="327,43,539,91,538,96,325,48"/>
+<area shape="rect" id="Node000011" href="$camera_8hpp.html" title=" " alt="" coords="337,102,524,127"/>
+<area shape="poly" id="edge15_Node000001_Node000011" title=" " alt="" coords="289,44,392,92,390,97,287,49"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="93,137,61,179,57,176,88,134"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="111,134,121,172,138,219,163,268,180,290,199,310,228,331,261,347,329,367,328,372,259,352,226,335,195,314,176,294,159,271,133,221,116,173,106,136"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="524,449,582,474"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="450,399,520,438,518,443,448,404"/>
+<area shape="poly" id="edge10_Node000006_Node000004" title=" " alt="" coords="452,222,469,244,482,270,487,292,482,313,470,334,455,351,451,348,466,330,477,311,482,292,477,272,464,247,448,225"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="418,279,467,304"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="436,223,441,263,436,264,431,224"/>
+<area shape="rect" id="Node000008" href="$quaternion_8hpp.html" title=" " alt="" coords="254,271,394,312"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="408,226,361,264,358,259,405,222"/>
+<area shape="poly" id="edge9_Node000008_Node000004" title=" " alt="" coords="346,311,385,347,381,351,343,314"/>
+<area shape="poly" id="edge12_Node000009_Node000005" title=" " alt="" coords="643,134,658,156,669,182,672,203,669,224,650,286,623,346,572,437,567,434,619,344,645,285,664,223,667,203,664,183,653,158,638,137"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="594,190,654,216"/>
+<area shape="poly" id="edge13_Node000009_Node000010" title=" " alt="" coords="626,135,626,175,621,175,621,135"/>
+<area shape="poly" id="edge17_Node000011_Node000004" title=" " alt="" coords="457,126,489,148,504,163,516,182,519,202,516,224,516,270,514,290,503,313,486,335,466,353,462,349,483,332,499,311,508,288,511,269,510,223,514,202,511,184,500,167,485,152,454,130"/>
+<area shape="poly" id="edge16_Node000011_Node000006" title=" " alt="" coords="433,128,433,168,428,168,428,128"/>
+</map>

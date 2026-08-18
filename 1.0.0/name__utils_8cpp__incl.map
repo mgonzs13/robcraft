@@ -1,0 +1,20 @@
+<map id="robcraft/src/robcraft/engine/core/name_utils.cpp" name="robcraft/src/robcraft/engine/core/name_utils.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="60,5,244,46"/>
+<area shape="rect" id="Node000002" href="$name__utils_8hpp.html" title=" " alt="" coords="84,94,220,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,47,155,78,150,78,150,47"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="20,190,74,216"/>
+<area shape="poly" id="edge9_Node000001_Node000003" title=" " alt="" coords="122,49,96,69,74,95,58,136,51,175,46,174,53,134,70,93,92,66,118,44"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="244,102,303,127"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="181,44,246,90,243,94,178,49"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="130,137,75,182,71,178,127,133"/>
+<area shape="rect" id="Node000004" href="$entity_8hpp.html" title=" " alt="" coords="97,183,234,223"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="158,135,163,167,158,168,153,136"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,271,70,297"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="135,226,71,265,68,261,132,221"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="94,271,154,297"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="158,225,140,258,135,256,153,222"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="179,271,235,297"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="178,222,196,256,191,258,173,225"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="259,271,362,297"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="203,222,277,261,274,266,201,226"/>
+</map>

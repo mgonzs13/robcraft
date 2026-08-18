@@ -1,0 +1,13 @@
+<map id="robcraft/include/robcraft/engine/collision/collision.hpp" name="robcraft/include/robcraft/engine/collision/collision.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="106,5,295,46"/>
+<area shape="rect" id="Node000002" href="$collider_8hpp.html" title=" " alt="" coords="5,94,164,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,49,125,87,121,82,173,44"/>
+<area shape="rect" id="Node000003" href="$vec3_8hpp.html" title=" " alt="" coords="130,183,271,223"/>
+<area shape="poly" id="edge6_Node000001_Node000003" title=" " alt="" coords="203,46,203,167,198,167,198,46"/>
+<area shape="rect" id="Node000005" href="$quaternion_8hpp.html" title=" " alt="" coords="238,94,379,135"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="227,44,274,82,271,86,223,49"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="112,133,164,171,160,175,109,137"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="172,271,229,297"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="203,224,203,256,198,256,198,224"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="286,137,238,175,235,171,282,133"/>
+</map>

@@ -1,0 +1,54 @@
+<map id="robcraft::ros2::ROS2Bridge" name="robcraft::ros2::ROS2Bridge">
+<area shape="rect" id="Node000001" title="Bridge that mirrors simulated robots to ROS 2 topics." alt="" coords="1631,533,1805,558"/>
+<area shape="rect" id="Node000002" href="$classrobcraft_1_1engine_1_1core_1_1RateGate.html" title="Allows at most one gate pass per configured interval." alt="" coords="600,564,741,605"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="745,554,763,541,779,525,786,514,789,503,788,480,789,457,794,446,804,435,864,425,1007,417,1217,420,1342,428,1478,442,1545,450,1608,471,1661,500,1702,530,1699,534,1658,505,1606,476,1544,456,1478,447,1342,433,1216,425,1007,422,865,430,807,440,798,449,794,458,793,480,794,503,791,516,783,529,767,545,748,558"/>
+<area shape="rect" id="Node000017" href="$structrobcraft_1_1ros2_1_1ROS2Bridge_1_1RobotBridge.html" title="Per&#45;robot set of ROS 2 publishers and subscriptions." alt="" coords="965,692,1140,733"/>
+<area shape="poly" id="edge23_Node000017_Node000002" title=" " alt="" coords="714,612,783,664,794,674,806,682,845,695,886,703,965,711,964,716,885,709,844,700,804,687,791,678,780,668,711,616"/>
+<area shape="rect" id="Node000003" href="$classrobcraft_1_1engine_1_1world_1_1World.html" title="Owns entities, their component stores, and the optional terrain." alt="" coords="979,275,1126,315"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1141,290,1243,295,1363,311,1427,324,1490,343,1551,367,1608,398,1646,429,1676,466,1699,503,1713,531,1709,533,1694,505,1672,469,1642,433,1606,403,1549,372,1488,348,1426,330,1362,316,1242,300,1141,296"/>
+<area shape="rect" id="Node000004" href="$classrobcraft_1_1engine_1_1core_1_1EntityManager.html" title="Manages entity creation and destruction." alt="" coords="600,475,741,515"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="708,463,752,431,804,402,842,388,873,382,903,377,940,364,985,339,1023,314,1026,318,987,344,942,368,905,382,874,388,843,393,806,407,755,436,711,467"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="251,540,385,565"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="400,540,536,521,599,508,600,513,536,526,401,546"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="254,475,382,515"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="397,492,600,492,600,498,397,498"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="560,38,781,109"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="788,113,866,148,943,191,994,232,1034,272,1031,276,991,236,940,196,864,153,786,118"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="213,8,423,49"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="438,41,560,57,559,62,438,46"/>
+<area shape="rect" id="Node000009" href="$classrobcraft_1_1engine_1_1ecs_1_1IComponentStore.html" title="Common interface for component stores of any type." alt="" coords="5,8,142,49"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="157,26,212,26,212,31,157,31"/>
+<area shape="rect" id="Node000010" href="$classrobcraft_1_1engine_1_1world_1_1Terrain.html" title="Heightmap terrain grid with editing, raycasting, and serialization." alt="" coords="598,177,744,218"/>
+<area shape="poly" id="edge9_Node000003_Node000010" title=" " alt="" coords="760,210,848,227,942,251,1002,272,1000,277,941,256,847,233,759,215"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="254,90,382,116"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="397,105,466,114,537,130,590,151,636,174,633,179,587,155,535,135,465,119,397,110"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="247,185,389,210"/>
+<area shape="poly" id="edge11_Node000010_Node000012" title=" " alt="" coords="405,195,597,195,597,200,405,200"/>
+<area shape="rect" id="Node000013" href="$structrobcraft_1_1engine_1_1lighting_1_1SceneLighting.html" title="Sun and ambient lighting for a world (serialized with the .world file)." alt="" coords="592,255,749,295"/>
+<area shape="poly" id="edge12_Node000003_Node000013" title=" " alt="" coords="764,277,979,289,979,294,764,283"/>
+<area shape="rect" id="Node000014" href="$structrobcraft_1_1engine_1_1math_1_1Vec3.html" title="3D double&#45;precision vector with component&#45;wise arithmetic." alt="" coords="246,347,390,387"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="386,338,446,319,591,286,593,291,448,324,388,344"/>
+<area shape="rect" id="Node000015" href="$structrobcraft_1_1engine_1_1lighting_1_1Sky.html" title="Gradient sky colors for a world (serialized with the .world file)." alt="" coords="578,342,763,368"/>
+<area shape="poly" id="edge15_Node000015_Node000014" title=" " alt="" coords="405,365,536,362,578,360,578,365,536,368,405,370"/>
+<area shape="rect" id="Node000020" href="$structrobcraft_1_1engine_1_1ecs_1_1Transform3D.html" title="Full 3D transform for objects in world space." alt="" coords="602,677,739,718"/>
+<area shape="poly" id="edge21_Node000020_Node000014" title=" " alt="" coords="392,391,479,429,515,449,538,469,549,489,554,508,553,543,550,577,553,595,562,615,592,649,629,675,625,679,589,653,558,618,548,597,545,578,547,542,549,508,544,491,534,473,512,454,476,433,390,396"/>
+<area shape="poly" id="edge14_Node000003_Node000015" title=" " alt="" coords="778,339,941,315,979,308,980,313,942,321,779,345"/>
+<area shape="rect" id="Node000016" title=" " alt="" coords="1266,456,1478,512"/>
+<area shape="poly" id="edge16_Node000001_Node000016" title=" " alt="" coords="1494,497,1608,516,1666,530,1665,535,1606,522,1493,503"/>
+<area shape="poly" id="edge17_Node000016_Node000017" title=" " alt="" coords="1081,678,1159,602,1210,560,1264,522,1286,510,1289,515,1267,527,1213,564,1163,606,1085,682"/>
+<area shape="rect" id="Node000018" title=" " alt="" coords="632,984,709,1009"/>
+<area shape="poly" id="edge18_Node000017_Node000018" title=" " alt="" coords="725,1005,774,1010,831,1010,888,999,915,988,940,974,967,949,990,919,1008,886,1022,851,1039,784,1047,733,1052,734,1045,785,1027,852,1013,888,994,922,971,952,943,978,917,993,890,1004,831,1015,774,1015,724,1010"/>
+<area shape="rect" id="Node000019" title=" " alt="" coords="256,976,380,1017"/>
+<area shape="poly" id="edge19_Node000018_Node000019" title=" " alt="" coords="395,994,632,994,632,999,395,999"/>
+<area shape="poly" id="edge20_Node000017_Node000020" title=" " alt="" coords="743,720,806,735,873,741,941,735,971,731,972,736,942,741,873,747,805,741,741,726"/>
+<area shape="rect" id="Node000021" href="$structrobcraft_1_1engine_1_1math_1_1Quaternion.html" title="Unit quaternion representing a rotation." alt="" coords="246,677,390,718"/>
+<area shape="poly" id="edge22_Node000020_Node000021" title=" " alt="" coords="405,695,602,695,602,700,405,700"/>
+<area shape="rect" id="Node000022" title=" " alt="" coords="1331,537,1412,562"/>
+<area shape="poly" id="edge24_Node000001_Node000022" title=" " alt="" coords="1428,546,1631,544,1631,549,1428,552"/>
+<area shape="rect" id="Node000023" title=" " alt="" coords="1307,586,1437,612"/>
+<area shape="poly" id="edge25_Node000001_Node000023" title=" " alt="" coords="1452,592,1527,586,1606,574,1675,556,1677,562,1608,579,1528,591,1453,598"/>
+<area shape="rect" id="Node000024" title=" " alt="" coords="1332,640,1412,665"/>
+<area shape="poly" id="edge26_Node000001_Node000024" title=" " alt="" coords="1427,649,1513,640,1560,631,1606,617,1659,588,1700,557,1703,561,1662,592,1608,622,1562,636,1514,646,1428,654"/>
+<area shape="rect" id="Node000025" href="$classrobcraft_1_1engine_1_1core_1_1Random.html" title="xorshift&#45;style deterministic PRNG." alt="" coords="1302,689,1442,730"/>
+<area shape="poly" id="edge27_Node000001_Node000025" title=" " alt="" coords="1457,708,1532,697,1570,686,1606,670,1640,645,1669,614,1707,558,1712,561,1673,617,1644,649,1608,675,1572,691,1533,702,1457,713"/>
+</map>

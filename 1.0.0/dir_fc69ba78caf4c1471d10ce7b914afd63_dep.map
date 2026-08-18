@@ -1,0 +1,7 @@
+<map id="robcraft/src/robcraft/sensors/depth_camera" name="robcraft/src/robcraft/sensors/depth_camera">
+<area shape="rect" id="node1" href="dir_fc69ba78caf4c1471d10ce7b914afd63.html" title="depth_camera" alt="" coords="27,52,130,78"/>
+<area shape="rect" id="node2" href="dir_49a5560818ce80af2c4913299cb09fd2.html" title="include" alt="" coords="48,126,110,152"/>
+<area shape="poly" id="edge1" href="dir_000009_000021.html" alt="" coords="81,78,81,110,76,110,76,78"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000009_000021.html" title="2" alt="" coords="84,100,91,115"/>
+<area shape="rect" id="clust1" href="dir_8e38b715b096b218cadba1309af5bd70.html" title="sensors" alt="" coords="16,16,141,89"/>
+</map>

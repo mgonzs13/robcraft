@@ -1,0 +1,13 @@
+<map id="robcraft::renderer::GltfSkin" name="robcraft::renderer::GltfSkin">
+<area shape="rect" id="Node000001" title="Joint hierarchy + inverse bind matrices for skinning." alt="" coords="755,93,874,134"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="494,26,612,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="628,43,680,51,732,66,782,90,780,95,730,71,678,57,627,48"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="480,87,626,127"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="642,109,650,109,755,111,755,116,650,114,642,114"/>
+<area shape="rect" id="Node000004" href="$structrobcraft_1_1engine_1_1math_1_1Mat4.html" title="Column&#45;major 4x4 matrix of single&#45;precision floats." alt="" coords="227,87,371,127"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="387,104,479,104,479,110,387,110"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,94,146,120"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="161,104,226,104,226,110,161,110"/>
+<area shape="rect" id="Node000006" href="$structrobcraft_1_1engine_1_1math_1_1Vec3.html" title="3D double&#45;precision vector with component&#45;wise arithmetic." alt="" coords="481,152,625,193"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="640,158,731,139,756,132,757,137,732,144,641,163"/>
+</map>

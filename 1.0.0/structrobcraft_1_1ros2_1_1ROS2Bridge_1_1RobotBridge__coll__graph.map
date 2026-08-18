@@ -1,0 +1,15 @@
+<map id="robcraft::ros2::ROS2Bridge::RobotBridge" name="robcraft::ros2::ROS2Bridge::RobotBridge">
+<area shape="rect" id="Node000001" title="Per&#45;robot set of ROS 2 publishers and subscriptions." alt="" coords="575,261,749,302"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="282,208,360,233"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="375,224,551,251,584,258,582,263,551,256,374,229"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="16,199,139,239"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="155,217,282,217,282,223,155,222"/>
+<area shape="rect" id="Node000004" href="$structrobcraft_1_1engine_1_1ecs_1_1Transform3D.html" title="Full 3D transform for objects in world space." alt="" coords="253,264,389,305"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="404,281,574,280,574,285,404,286"/>
+<area shape="rect" id="Node000005" href="$structrobcraft_1_1engine_1_1math_1_1Vec3.html" title="3D double&#45;precision vector with component&#45;wise arithmetic." alt="" coords="5,264,150,305"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="165,282,252,282,252,287,165,287"/>
+<area shape="rect" id="Node000006" href="$structrobcraft_1_1engine_1_1math_1_1Quaternion.html" title="Unit quaternion representing a rotation." alt="" coords="5,329,150,370"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="164,326,226,310,251,303,253,308,227,315,165,332"/>
+<area shape="rect" id="Node000007" href="$classrobcraft_1_1engine_1_1core_1_1RateGate.html" title="Allows at most one gate pass per configured interval." alt="" coords="251,539,391,579"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="406,567,442,567,480,562,517,551,549,533,576,509,598,480,616,448,629,415,648,351,656,302,661,303,653,352,634,417,620,450,602,483,580,512,553,537,519,556,481,567,443,572,406,572"/>
+</map>

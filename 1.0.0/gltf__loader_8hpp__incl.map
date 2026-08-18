@@ -1,0 +1,27 @@
+<map id="robcraft/include/robcraft/renderer/gltf_loader.hpp" name="robcraft/include/robcraft/renderer/gltf_loader.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="174,5,334,46"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="13,190,74,216"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,41,79,63,40,78,16,96,9,115,10,136,18,157,28,176,24,179,13,159,5,137,4,114,12,92,37,74,77,58,173,36"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="26,102,80,127"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="206,49,93,96,92,97,90,92,91,92,203,44"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="264,190,322,216"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="271,45,284,67,294,93,300,136,299,176,294,175,295,137,289,95,279,70,266,48"/>
+<area shape="rect" id="Node000005" href="$mat4_8hpp.html" title=" " alt="" coords="408,94,548,135"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="306,44,414,85,412,90,304,49"/>
+<area shape="rect" id="Node000008" href="$vec3_8hpp.html" title=" " alt="" coords="348,271,488,312"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="276,45,315,92,368,180,406,256,401,258,363,182,311,96,271,48"/>
+<area shape="rect" id="Node000010" href="$mesh_8hpp.html" title=" " alt="" coords="103,102,280,127"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="242,48,211,91,207,88,238,45"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="456,190,506,216"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="482,135,483,175,477,175,476,135"/>
+<area shape="rect" id="Node000007" href="$quaternion_8hpp.html" title=" " alt="" coords="529,183,670,223"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="507,133,561,171,558,176,504,137"/>
+<area shape="poly" id="edge9_Node000005_Node000008" title=" " alt="" coords="470,136,447,184,427,257,422,255,442,182,465,134"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="560,226,474,267,472,262,557,221"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="390,360,447,386"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="421,312,421,344,416,344,416,312"/>
+<area shape="poly" id="edge13_Node000010_Node000002" title=" " alt="" coords="172,130,79,184,76,180,170,125"/>
+<area shape="poly" id="edge14_Node000010_Node000004" title=" " alt="" coords="207,126,270,178,266,182,204,130"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="151,190,232,216"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="194,128,194,174,189,174,189,128"/>
+</map>

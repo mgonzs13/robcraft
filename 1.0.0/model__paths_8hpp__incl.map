@@ -1,0 +1,11 @@
+<map id="robcraft/include/robcraft/renderer/model_paths.hpp" name="robcraft/include/robcraft/renderer/model_paths.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="21,5,195,46"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,102,59,127"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,48,54,92,50,88,89,45"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="82,102,134,127"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="111,47,111,86,105,86,105,47"/>
+<area shape="rect" id="Node000004" href="$vec3_8hpp.html" title=" " alt="" coords="158,94,298,135"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="137,44,190,83,187,87,134,49"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="199,183,257,208"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="231,135,231,167,225,167,225,135"/>
+</map>

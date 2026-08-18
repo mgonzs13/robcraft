@@ -1,0 +1,5 @@
+<map id="robcraft::sensors::camera::CameraSensor" name="robcraft::sensors::camera::CameraSensor">
+<area shape="rect" id="Node000001" title="RGB camera sensor model with configurable resolution and FOV." alt="" coords="5,94,162,135"/>
+<area shape="rect" id="Node000002" href="$structrobcraft_1_1sensors_1_1SensorBase.html" title="Base configuration shared by all simulated sensor models." alt="" coords="22,5,145,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="86,62,86,94,81,94,81,62"/>
+</map>

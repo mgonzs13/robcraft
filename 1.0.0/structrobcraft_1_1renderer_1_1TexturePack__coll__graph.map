@@ -1,0 +1,5 @@
+<map id="robcraft::renderer::TexturePack" name="robcraft::renderer::TexturePack">
+<area shape="rect" id="Node000001" title="Owns the loadable terrain/building textures and reloads them at a new size." alt="" coords="5,219,124,259"/>
+<area shape="rect" id="Node000002" href="$classrobcraft_1_1renderer_1_1Texture.html" title="OpenGL texture object (2D or 2D array), move&#45;only RAII." alt="" coords="5,5,124,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="67,61,67,218,62,218,62,61"/>
+</map>

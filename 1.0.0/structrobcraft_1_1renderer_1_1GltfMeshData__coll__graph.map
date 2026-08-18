@@ -1,0 +1,13 @@
+<map id="robcraft::renderer::GltfMeshData" name="robcraft::renderer::GltfMeshData">
+<area shape="rect" id="Node000001" title="One skinned mesh submesh: geometry + skinning data." alt="" coords="514,101,632,142"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="239,8,376,49"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="391,43,441,56,491,74,540,98,537,103,489,79,439,62,390,48"/>
+<area shape="rect" id="Node000003" href="$structrobcraft_1_1renderer_1_1Vertex.html" title="A single vertex: position, normal, RGB color, UV, and tangent." alt="" coords="5,8,124,49"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="139,26,239,26,239,31,139,31"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="235,73,380,114"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="395,100,514,113,513,118,395,106"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="244,138,371,164"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="387,147,490,138,513,134,514,139,490,143,387,152"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="233,189,382,214"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="397,195,444,187,489,174,519,159,546,140,549,145,522,163,491,179,445,193,398,200"/>
+</map>

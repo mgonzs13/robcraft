@@ -1,0 +1,15 @@
+<map id="robcraft/include/robcraft/renderer/camera.hpp" name="robcraft/include/robcraft/renderer/camera.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="148,5,306,46"/>
+<area shape="rect" id="Node000002" href="$mat4_8hpp.html" title=" " alt="" coords="104,94,244,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="217,48,196,82,192,79,213,45"/>
+<area shape="rect" id="Node000005" href="$vec3_8hpp.html" title=" " alt="" coords="186,271,327,312"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="241,45,251,68,259,93,265,137,267,181,264,256,258,256,262,181,260,138,254,95,246,70,236,47"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,190,55,216"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="143,137,64,184,62,180,140,133"/>
+<area shape="rect" id="Node000004" href="$quaternion_8hpp.html" title=" " alt="" coords="78,183,219,223"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="171,136,161,168,156,167,166,134"/>
+<area shape="poly" id="edge6_Node000002_Node000005" title=" " alt="" coords="197,133,216,155,234,181,248,219,255,256,250,257,243,221,229,184,212,158,193,137"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="175,222,222,259,219,264,172,226"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="228,360,285,386"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="259,312,259,344,254,344,254,312"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="robcraft::engine::lighting::Sky" name="robcraft::engine::lighting::Sky">
+<area shape="rect" id="Node000001" title="Gradient sky colors for a world (serialized with the .world file)." alt="" coords="5,137,190,163"/>
+<area shape="rect" id="Node000002" href="$structrobcraft_1_1engine_1_1math_1_1Vec3.html" title="3D double&#45;precision vector with component&#45;wise arithmetic." alt="" coords="25,5,170,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,62,100,137,95,137,95,62"/>
+</map>
