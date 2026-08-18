@@ -1,0 +1,9 @@
+build/
+install/
+log/
+
+imgui.ini
+worlds/untitled.world
+
+__pycache__/
+.vscode/

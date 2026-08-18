@@ -1,0 +1,761 @@
+world "untitled"
+{
+    terrain = "maze.world.terrain"
+    lighting
+    {
+        sun_direction = [0.5, 1, 0.3]
+        sun_color = [1, 0.95, 0.85]
+        sun_intensity = 1
+        ambient_color = [0.4, 0.42, 0.45]
+        ambient_intensity = 1
+        shadows = true
+    }
+    sky
+    {
+        zenith_color = [0.4, 0.5, 0.7]
+        horizon_color = [0.7, 0.8, 0.9]
+    }
+    physics
+    {
+        gravity = 9.81
+    }
+
+    object "wall_1"
+    {
+        mesh = "wall"
+        position = [16, 1.5, 11]
+        rotation = [0, 0, 0]
+        scale = [20, 3, 0.5]
+        collider = "box"
+    }
+
+    object "wall_2"
+    {
+        mesh = "wall"
+        position = [25, 1.5, 6]
+        rotation = [0, 0, 0]
+        scale = [0.5, 3, 12]
+        collider = "box"
+    }
+
+    object "wall_3"
+    {
+        mesh = "wall"
+        position = [25, 1.5, 11]
+        rotation = [0, 0, 0]
+        scale = [2, 3, 2]
+        collider = "box"
+    }
+
+    object "wall_4"
+    {
+        mesh = "wall"
+        position = [18, 1.5, 1]
+        rotation = [0, 0, 0]
+        scale = [16, 3, 0.5]
+        collider = "box"
+    }
+
+    object "wall_5"
+    {
+        mesh = "wall"
+        position = [25, 1.5, 1]
+        rotation = [0, 0, 0]
+        scale = [2, 3, 2]
+        collider = "box"
+    }
+
+    object "wall_6"
+    {
+        mesh = "wall"
+        position = [11, 1.5, -7]
+        rotation = [0, 0, 0]
+        scale = [0.5, 3, 18]
+        collider = "box"
+    }
+
+    object "wall_7"
+    {
+        mesh = "wall"
+        position = [11, 1.5, 1]
+        rotation = [0, 0, 0]
+        scale = [2, 3, 2]
+        collider = "box"
+    }
+
+    object "wall_8"
+    {
+        mesh = "wall"
+        position = [7, 1.5, 0]
+        rotation = [0, 0, 0]
+        scale = [0.5, 3, 24]
+        collider = "box"
+    }
+
+    object "wall_9"
+    {
+        mesh = "wall"
+        position = [7, 1.5, 11]
+        rotation = [0, 0, 0]
+        scale = [2, 3, 2]
+        collider = "box"
+    }
+
+    object "wall_10"
+    {
+        mesh = "wall"
+        position = [8, 1.5, -15]
+        rotation = [0, 0, 0]
+        scale = [8, 3, 0.5]
+        collider = "box"
+    }
+
+    object "wall_11"
+    {
+        mesh = "wall"
+        position = [11, 1.5, -15]
+        rotation = [0, 0, 0]
+        scale = [2, 3, 2]
+        collider = "box"
+    }
+
+    object "wall_12"
+    {
+        mesh = "wall"
+        position = [4, 1.5, -11]
+        rotation = [0, 0, 0]
+        scale = [8, 3, 0.5]
+        collider = "box"
+    }
+
+    object "wall_13"
+    {
+        mesh = "wall"
+        position = [7, 1.5, -11]
+        rotation = [0, 0, 0]
+        scale = [2, 3, 2]
+        collider = "box"
+    }
+
+    object "wall_14"
+    {
+        mesh = "wall"
+        position = [5, 1.5, -22]
+        rotation = [0, 0, 0]
+        scale = [0.5, 3, 16]
+        collider = "box"
+    }
+
+    object "wall_15"
+    {
+        mesh = "wall"
+        position = [5, 1.5, -15]
+        rotation = [0, 0, 0]
+        scale = [2, 3, 2]
+        collider = "box"
+    }
+
+    object "wall_16"
+    {
+        mesh = "wall"
+        position = [1, 1.5, -2]
+        rotation = [0, 0, 0]
+        scale = [0.5, 3, 20]
+        collider = "box"
+    }
+
+    object "wall_17"
+    {
+        mesh = "wall"
+        position = [1, 1.5, -11]
+        rotation = [0, 0, 0]
+        scale = [2, 3, 2]
+        collider = "box"
+    }
+
+    object "wall_18"
+    {
+        mesh = "wall"
+        position = [1, 1.5, -22]
+        rotation = [0, 0, 0]
+        scale = [0.5, 3, 16]
+        collider = "box"
+    }
+
+    object "wall_19"
+    {
+        mesh = "wall"
+        position = [3, 1.5, -29]
+        rotation = [0, 0, 0]
+        scale = [6, 3, 0.5]
+        collider = "box"
+    }
+
+    object "wall_20"
+    {
+        mesh = "wall"
+        position = [1, 1.5, -29]
+        rotation = [0, 0, 0]
+        scale = [2, 3, 2]
+        collider = "box"
+    }
+
+    object "wall_21"
+    {
+        mesh = "wall"
+        position = [5, 1.5, -29]
+        rotation = [0, 0, 0]
+        scale = [2, 3, 2]
+        collider = "box"
+    }
+
+    object "wall_22"
+    {
+        mesh = "wall"
+        position = [-2, 1.5, -15]
+        rotation = [0, 0, 0]
+        scale = [8, 3, 0.5]
+        collider = "box"
+    }
+
+    object "wall_23"
+    {
+        mesh = "wall"
+        position = [1, 1.5, -15]
+        rotation = [0, 0, 0]
+        scale = [2, 3, 2]
+        collider = "box"
+    }
+
+    object "wall_24"
+    {
+        mesh = "wall"
+        position = [-5, 1.5, -22]
+        rotation = [0, 0, 0]
+        scale = [0.5, 3, 16]
+        collider = "box"
+    }
+
+    object "wall_25"
+    {
+        mesh = "wall"
+        position = [-5, 1.5, -15]
+        rotation = [0, 0, 0]
+        scale = [2, 3, 2]
+        collider = "box"
+    }
+
+    object "wall_26"
+    {
+        mesh = "wall"
+        position = [-5, 1.5, -2]
+        rotation = [0, 0, 0]
+        scale = [0.5, 3, 20]
+        collider = "box"
+    }
+
+    object "wall_27"
+    {
+        mesh = "wall"
+        position = [-8, 1.5, 7]
+        rotation = [0, 0, 0]
+        scale = [8, 3, 0.5]
+        collider = "box"
+    }
+
+    object "wall_28"
+    {
+        mesh = "wall"
+        position = [-5, 1.5, 7]
+        rotation = [0, 0, 0]
+        scale = [2, 3, 2]
+        collider = "box"
+    }
+
+    object "wall_29"
+    {
+        mesh = "wall"
+        position = [-11, 1.5, 14]
+        rotation = [0, 0, 0]
+        scale = [0.5, 3, 16]
+        collider = "box"
+    }
+
+    object "wall_30"
+    {
+        mesh = "wall"
+        position = [-11, 1.5, 7]
+        rotation = [0, 0, 0]
+        scale = [2, 3, 2]
+        collider = "box"
+    }
+
+    object "wall_31"
+    {
+        mesh = "wall"
+        position = [2, 1.5, 7]
+        rotation = [0, 0, 0]
+        scale = [4, 3, 0.5]
+        collider = "box"
+    }
+
+    object "wall_32"
+    {
+        mesh = "wall"
+        position = [1, 1.5, 7]
+        rotation = [0, 0, 0]
+        scale = [2, 3, 2]
+        collider = "box"
+    }
+
+    object "wall_33"
+    {
+        mesh = "wall"
+        position = [3, 1.5, 14]
+        rotation = [0, 0, 0]
+        scale = [0.5, 3, 16]
+        collider = "box"
+    }
+
+    object "wall_34"
+    {
+        mesh = "wall"
+        position = [3, 1.5, 7]
+        rotation = [0, 0, 0]
+        scale = [2, 3, 2]
+        collider = "box"
+    }
+
+    object "wall_35"
+    {
+        mesh = "wall"
+        position = [-1, 1.5, 21]
+        rotation = [0, 0, 0]
+        scale = [10, 3, 0.5]
+        collider = "box"
+    }
+
+    object "wall_36"
+    {
+        mesh = "wall"
+        position = [3, 1.5, 21]
+        rotation = [0, 0, 0]
+        scale = [2, 3, 2]
+        collider = "box"
+    }
+
+    object "wall_37"
+    {
+        mesh = "wall"
+        position = [-5, 1.5, 24]
+        rotation = [0, 0, 0]
+        scale = [0.5, 3, 8]
+        collider = "box"
+    }
+
+    object "wall_38"
+    {
+        mesh = "wall"
+        position = [-5, 1.5, 21]
+        rotation = [0, 0, 0]
+        scale = [2, 3, 2]
+        collider = "box"
+    }
+
+    object "wall_39"
+    {
+        mesh = "wall"
+        position = [-17, 1.5, 27]
+        rotation = [0, 0, 0]
+        scale = [26, 3, 0.5]
+        collider = "box"
+    }
+
+    object "wall_40"
+    {
+        mesh = "wall"
+        position = [-5, 1.5, 27]
+        rotation = [0, 0, 0]
+        scale = [2, 3, 2]
+        collider = "box"
+    }
+
+    object "wall_41"
+    {
+        mesh = "wall"
+        position = [-18, 1.5, 21]
+        rotation = [0, 0, 0]
+        scale = [16, 3, 0.5]
+        collider = "box"
+    }
+
+    object "wall_42"
+    {
+        mesh = "wall"
+        position = [-11, 1.5, 21]
+        rotation = [0, 0, 0]
+        scale = [2, 3, 2]
+        collider = "box"
+    }
+
+    robot "robot_george_43"
+    {
+        type = "differential_drive"
+        position = [23, 0.499, 7]
+        rotation = [3.14159, -1.57079, 3.14159]
+        wheel_base = 0.42
+        max_speed = 1.5
+        odom_rate = 30
+        odom_noise = 0
+
+        lidar "scan"
+        {
+            range = 10
+            fov = 270
+            rays = 270
+            rate = 15
+            noise = 0
+            offset = [0, 0.15, 0]
+            rotation = [0, 0, 0]
+        }
+
+        camera "front_cam"
+        {
+            width = 640
+            height = 480
+            fov = 60
+            rate = 30
+            offset = [0, 0.3, 0]
+            rotation = [0, 0, 0]
+        }
+
+        depth_camera "depth"
+        {
+            width = 640
+            height = 480
+            fov = 60
+            rate = 30
+            near = 0.1
+            far = 100
+            offset = [0, 0.3, 0]
+            rotation = [0, 0, 0]
+        }
+
+        lidar3d "cloud"
+        {
+            range = 30
+            hfov = 360
+            vfov = 30
+            rays = 360
+            beams = 16
+            rate = 15
+            noise = 0
+            offset = [0, 0.15, 0]
+            rotation = [0, 0, 0]
+        }
+
+        imu "imu"
+        {
+            rate = 100
+            linear_noise = 0
+            angular_noise = 0
+        }
+
+        gps "gps"
+        {
+            rate = 10
+            noise = 0
+            offset = [0, 0.2, 0]
+            rotation = [0, 0, 0]
+        }
+
+        magnetometer "mag"
+        {
+            rate = 100
+            field = 50
+            declination = 0
+            inclination = 65
+            noise = 0
+            offset = [0, 0.1, 0]
+            rotation = [0, 0, 0]
+        }
+    }
+
+    object "wall_44"
+    {
+        mesh = "wall"
+        position = [-29, 1.5, 27]
+        rotation = [0, 0, 0]
+        scale = [2, 3, 2]
+        collider = "box"
+    }
+
+    object "wall_45"
+    {
+        mesh = "wall"
+        position = [-25, 1.5, 9]
+        rotation = [0, 0, 0]
+        scale = [0.5, 3, 26]
+        collider = "box"
+    }
+
+    object "wall_46"
+    {
+        mesh = "wall"
+        position = [-25, 1.5, 21]
+        rotation = [0, 0, 0]
+        scale = [2, 3, 2]
+        collider = "box"
+    }
+
+    object "wall_47"
+    {
+        mesh = "wall"
+        position = [-11, 1.5, -11]
+        rotation = [0, 0, 0]
+        scale = [14, 3, 0.5]
+        collider = "box"
+    }
+
+    object "wall_48"
+    {
+        mesh = "wall"
+        position = [-5, 1.5, -11]
+        rotation = [0, 0, 0]
+        scale = [2, 3, 2]
+        collider = "box"
+    }
+
+    object "wall_49"
+    {
+        mesh = "wall"
+        position = [-9, 1.5, -22]
+        rotation = [0, 0, 0]
+        scale = [0.5, 3, 16]
+        collider = "box"
+    }
+
+    object "wall_50"
+    {
+        mesh = "wall"
+        position = [-7, 1.5, -29]
+        rotation = [0, 0, 0]
+        scale = [6, 3, 0.5]
+        collider = "box"
+    }
+
+    object "wall_51"
+    {
+        mesh = "wall"
+        position = [-9, 1.5, -29]
+        rotation = [0, 0, 0]
+        scale = [2, 3, 2]
+        collider = "box"
+    }
+
+    object "wall_52"
+    {
+        mesh = "wall"
+        position = [-5, 1.5, -29]
+        rotation = [0, 0, 0]
+        scale = [2, 3, 2]
+        collider = "box"
+    }
+
+    object "wall_53"
+    {
+        mesh = "wall"
+        position = [-13, 1.5, -15]
+        rotation = [0, 0, 0]
+        scale = [10, 3, 0.5]
+        collider = "box"
+    }
+
+    object "wall_54"
+    {
+        mesh = "wall"
+        position = [-9, 1.5, -15]
+        rotation = [0, 0, 0]
+        scale = [2, 3, 2]
+        collider = "box"
+    }
+
+    object "wall_55"
+    {
+        mesh = "wall"
+        position = [-17, 1.5, -20]
+        rotation = [0, 0, 0]
+        scale = [0.5, 3, 12]
+        collider = "box"
+    }
+
+    object "wall_56"
+    {
+        mesh = "wall"
+        position = [-17, 1.5, -15]
+        rotation = [0, 0, 0]
+        scale = [2, 3, 2]
+        collider = "box"
+    }
+
+    object "wall_57"
+    {
+        mesh = "wall"
+        position = [-23, 1.5, -25]
+        rotation = [0, 0, 0]
+        scale = [14, 3, 0.5]
+        collider = "box"
+    }
+
+    object "wall_58"
+    {
+        mesh = "wall"
+        position = [-17, 1.5, -25]
+        rotation = [0, 0, 0]
+        scale = [2, 3, 2]
+        collider = "box"
+    }
+
+    object "wall_59"
+    {
+        mesh = "wall"
+        position = [-17, 1.5, -7]
+        rotation = [0, 0, 0]
+        scale = [0.5, 3, 10]
+        collider = "box"
+    }
+
+    object "wall_60"
+    {
+        mesh = "wall"
+        position = [-17, 1.5, -11]
+        rotation = [0, 0, 0]
+        scale = [2, 3, 2]
+        collider = "box"
+    }
+
+    object "wall_61"
+    {
+        mesh = "wall"
+        position = [-21, 1.5, -3]
+        rotation = [0, 0, 0]
+        scale = [10, 3, 0.5]
+        collider = "box"
+    }
+
+    object "wall_62"
+    {
+        mesh = "wall"
+        position = [-17, 1.5, -3]
+        rotation = [0, 0, 0]
+        scale = [2, 3, 2]
+        collider = "box"
+    }
+
+    object "wall_63"
+    {
+        mesh = "wall"
+        position = [-29, 1.5, 1]
+        rotation = [0, 0, 0]
+        scale = [0.5, 3, 54]
+        collider = "box"
+    }
+
+    object "wall_64"
+    {
+        mesh = "wall"
+        position = [-29, 1.5, -25]
+        rotation = [0, 0, 0]
+        scale = [2, 3, 2]
+        collider = "box"
+    }
+
+    object "floor_65"
+    {
+        mesh = "floor"
+        position = [16, 0.005, 6]
+        rotation = [0, 0, 0]
+        scale = [20, 0.01, 12]
+    }
+
+    object "wall_66"
+    {
+        mesh = "wall"
+        position = [-25, 1.5, -3]
+        rotation = [0, 0, 0]
+        scale = [2, 3, 2]
+        collider = "box"
+    }
+
+    object "floor_67"
+    {
+        mesh = "floor"
+        position = [9, 0.005, -8]
+        rotation = [0, 0, 0]
+        scale = [6, 0.01, 16]
+    }
+
+    object "floor_68"
+    {
+        mesh = "floor"
+        position = [3, 0.005, -22]
+        rotation = [0, 0, 0]
+        scale = [6, 0.01, 16]
+    }
+
+    object "floor_69"
+    {
+        mesh = "floor"
+        position = [-7, 0.005, -22]
+        rotation = [0, 0, 0]
+        scale = [6, 0.01, 16]
+    }
+
+    object "floor_70"
+    {
+        mesh = "floor"
+        position = [-2, 0.005, -2]
+        rotation = [0, 0, 0]
+        scale = [8, 0.01, 20]
+    }
+
+    object "floor_71"
+    {
+        mesh = "floor"
+        position = [-6, 0.005, -13]
+        rotation = [0, 0, 0]
+        scale = [24, 0.01, 6]
+    }
+
+    object "floor_72"
+    {
+        mesh = "floor"
+        position = [-4, 0.005, 14]
+        rotation = [0, 0, 0]
+        scale = [16, 0.01, 16]
+    }
+
+    object "floor_73"
+    {
+        mesh = "floor"
+        position = [-17, 0.005, 24]
+        rotation = [0, 0, 0]
+        scale = [26, 0.01, 8]
+    }
+
+    object "floor_74"
+    {
+        mesh = "floor"
+        position = [-27, 0.005, 8]
+        rotation = [0, 0, 0]
+        scale = [6, 0.01, 24]
+    }
+
+    object "floor_75"
+    {
+        mesh = "floor"
+        position = [-23, 0.005, -14]
+        rotation = [0, 0, 0]
+        scale = [14, 0.01, 24]
+    }
+}

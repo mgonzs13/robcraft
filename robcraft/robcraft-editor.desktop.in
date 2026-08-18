@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=RobCraft Editor
+GenericName=World Editor
+Comment=WC3-style world editor for RobCraft
+Icon=@CMAKE_INSTALL_PREFIX@/share/robcraft/assets/logo.png
+Exec=@CMAKE_INSTALL_PREFIX@/lib/robcraft/launch_robcraft_editor.sh
+Terminal=false
+Categories=Development;Education;Robotics;
+Keywords=editor;world;simulator;
+StartupWMClass=RobCraft Editor

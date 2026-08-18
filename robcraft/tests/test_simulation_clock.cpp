@@ -1,0 +1,56 @@
+// Copyright (C) 2026 Miguel Ángel González Santamarta
+//
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+//
+//     http://www.apache.org/licenses/LICENSE-2.0
+//
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
+
+#include <catch2/catch_approx.hpp>
+#include <catch2/catch_test_macros.hpp>
+
+#include "robcraft/engine/simulation/simulation_clock.hpp"
+
+using namespace robcraft::engine::simulation;
+using Catch::Approx;
+
+TEST_CASE("SimulationClock computes correct ticks", "[clock]") {
+    robcraft::engine::simulation::SimulationClock clock(0.01);  // 100 Hz
+    REQUIRE(clock.dt() == Approx(0.01));
+
+    int ticks = clock.step(0.035);  // 3.5 ticks worth
+    REQUIRE(ticks == 3);
+    REQUIRE(clock.time() == Approx(0.03));
+}
+
+TEST_CASE("SimulationClock accumulates partial frames", "[clock]") {
+    robcraft::engine::simulation::SimulationClock clock(0.01);
+
+    clock.step(0.008);  // 0 ticks consumed, 0.008 accumulated
+    REQUIRE(clock.time() == Approx(0.0));
+
+    int ticks = clock.step(0.008);  // total 0.016 -> 1 tick
+    REQUIRE(ticks == 1);
+    REQUIRE(clock.time() == Approx(0.01));
+}
+
+TEST_CASE("SimulationClock processes multiple ticks per frame", "[clock]") {
+    robcraft::engine::simulation::SimulationClock clock(0.01);
+
+    int ticks = clock.step(0.05);  // 5 ticks
+    REQUIRE(ticks == 5);
+    REQUIRE(clock.time() == Approx(0.05));
+}
+
+TEST_CASE("SimulationClock reset clears time", "[clock]") {
+    robcraft::engine::simulation::SimulationClock clock(0.01);
+    clock.step(0.05);
+    clock.reset();
+    REQUIRE(clock.time() == Approx(0.0));
+}

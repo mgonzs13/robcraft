@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=RobCraft
+GenericName=Robotics Simulator
+Comment=Lightweight robotics simulator (WC3-inspired)
+Icon=@CMAKE_INSTALL_PREFIX@/share/robcraft/assets/logo.png
+Exec=@CMAKE_INSTALL_PREFIX@/lib/robcraft/launch_robcraft.sh %F
+Terminal=false
+Categories=Development;Education;Robotics;
+Keywords=simulator;robotics;ROS2;
+StartupWMClass=RobCraft

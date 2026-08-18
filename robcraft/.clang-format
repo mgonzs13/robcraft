@@ -1,0 +1,15 @@
+# Project-wide clang-format configuration (C++17, namespace rc::).
+# Run with: clang-format -i $(find . -path ./build -prune -o \( -name '*.cpp' -o -name '*.hpp' \) -print)
+
+BasedOnStyle: Google
+IndentWidth: 4
+ColumnLimit: 100
+NamespaceIndentation: None
+AccessModifierOffset: -4
+AllowShortFunctionsOnASingleLine: Inline
+DerivePointerAlignment: false
+PointerAlignment: Left
+FixNamespaceComments: true
+SortIncludes: true
+Standard: c++17
+BreakBeforeBraces: Attach
