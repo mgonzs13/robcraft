@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.10)
 project(robcraft
-    VERSION 0.1.0
+    VERSION 1.0.0
     DESCRIPTION "Lightweight robotics simulator inspired by early-2000s game engineering"
     LANGUAGES CXX
 )

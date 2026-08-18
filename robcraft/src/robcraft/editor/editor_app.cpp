@@ -431,7 +431,7 @@ const std::vector<Mat4>* EditorApp::editor_skin_matrices(
 
 int main(int argc, char* argv[]) {
     auto logger = robcraft::engine::core::init_logger();
-    logger->info("RobCraft Editor v0.1.0");
+    logger->info("RobCraft Editor v1.0.0");
     robcraft::editor::EditorApp app;
     if (!app.init()) {
         logger->error("Init failed");

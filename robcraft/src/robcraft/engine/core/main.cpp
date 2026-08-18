@@ -159,7 +159,7 @@ int main(int argc, char* argv[]) {
     }
 
     auto logger = robcraft::engine::core::init_logger();
-    logger->info("RobCraft v0.1.0 — lightweight robotics simulator");
+    logger->info("RobCraft v1.0.0 — lightweight robotics simulator");
 
     double sim_rate = 100.0;
     double sim_dt = 1.0 / sim_rate;
